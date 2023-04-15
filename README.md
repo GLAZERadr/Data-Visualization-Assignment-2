@@ -2,8 +2,10 @@
 
 Dibuat untuk memenuhi tugas besar 2 metode visualisasi data pada jurusan s1 data sains di universitas telkom
 
-terdapat beberapa visualisasi sebagai berikut: (memenuhi 4 atribut dalam satu grafik)
+Pada visualisasi yang memenuhi 4 atribut digunakan:
 * Bubble Chart
-* Bar Chart
+* Tree Map
 
-Terdapat beberapa atribut yang ditrasnformasi:
+Pada Visualisasi yang atributnya ditransformasi digunakan:
+* Map Plot
+* Bar Plot
